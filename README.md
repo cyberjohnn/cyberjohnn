@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in/oluwayimika-adeniran/">Computer Security</a>
+<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in/oluwayimika-adeniran/">Computer Security & Digital Forensic</a>
 
 <h2>👨‍💻 Security Projects:</h2>
 
